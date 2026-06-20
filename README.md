@@ -1,2 +1,2 @@
 # College-Demo
-This is my first Git Responsitory
+Demo Git Responsitory
